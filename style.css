@@ -1,0 +1,58 @@
+:root{
+  background-color: #928374;
+  font-family: "consolas", monospace;
+}
+
+#toptxt{
+  text-align: center;
+}
+
+h1{
+ font-family: "consolas", monospace;
+}
+
+#topbar{
+  background-color: #FBF1C7;
+  padding: 1px;
+  margin: 4px;
+  border-radius: 10px;
+}
+
+.nav{
+  width: 15%;
+  float: left;
+  background-color: #D5C4A1;
+  border-radius: 10px
+}
+
+
+
+#link{
+  list-style-type: none;
+  text-align: left;
+  padding-bottom: 10px;
+}
+
+#linktxt{
+  padding-left: 30px;
+}
+
+li{
+  padding-top: 2px;
+  padding-bottom: 3px;
+}
+
+.main{
+  background-color: #EBDBB2;
+  margin-left: 220px;
+  border-radius: 10px;
+}
+
+#title{
+  text-align: center;
+  margin-top: 15px;
+}
+
+#mainp{
+  margin-left: 10px;
+}
