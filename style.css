@@ -44,7 +44,7 @@ li{
 
 .main{
   background-color: #EBDBB2;
-  margin-left: 220px;
+  margin-left: 240px;
   border-radius: 10px;
 }
 
@@ -55,4 +55,13 @@ li{
 
 #mainp{
   margin-left: 10px;
+}
+
+h2{
+  text-align: center;
+}
+
+#socials{
+  text-align: center;
+  list-style-type: none;
 }
